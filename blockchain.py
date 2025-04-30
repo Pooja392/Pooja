@@ -108,7 +108,8 @@ elif menu == "View Recharge History":
                 st.error(f"Error fetching records: {str(e)}")
         else:
             st.warning("Please enter a mobile number.")
-
+web3==5.24.0
+py-solc-x
 
 
 
