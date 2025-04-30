@@ -88,9 +88,7 @@ elif menu == "View Recharge History":
                 })
         except Exception as e:
             st.error(f"Error fetching records: {str(e)}")
-streamlit
-web3
-py-solc-x
+
 
 
 
